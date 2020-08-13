@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Wislon Site',
   tagline: 'The tagline of my site',
   url: 'https://wilsonwan1993.github.io',
   baseUrl: '/',
