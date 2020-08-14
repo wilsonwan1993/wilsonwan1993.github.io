@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Wislon Site test',
+  title: 'Wislon Site',
   tagline: 'The tagline of my site',
   url: 'https://wilsonwan1993.github.io',
   baseUrl: '/',
@@ -89,13 +89,15 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/wilsonwan1993/wilsonwan1993.github.io/edit/tree/documentation/wilson-website/'
+            //'https://github.com/facebook/docusaurus/edit/master/website/'
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/wilsonwan1993/wilsonwan1993.github.io/edit/tree/documentation/wilson-website/blog/'
+            //'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
